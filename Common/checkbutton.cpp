@@ -19,7 +19,7 @@
  */
 
 #include "checkbutton.h"
-
+#include <QPainterPath>
 checkButton::checkButton(QWidget *parent)
     :QFrame(parent)
 {
